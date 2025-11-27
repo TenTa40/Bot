@@ -1,0 +1,16 @@
+{
+  "platform": "php",
+  "php": {
+    "version": "8.2"
+  },
+  "web": {
+    "root": "/",
+    "passthru": "/index.php"
+  },
+  "app": "hrs",
+  "port": 80,
+  "build": {
+    "location": "iran"
+  },
+  "disks": []
+}
